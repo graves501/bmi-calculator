@@ -1,4 +1,8 @@
-# BmiCalculator
+# BMI Calculator
+
+Simple Angular Application to calculate your BMI.
+
+---
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
